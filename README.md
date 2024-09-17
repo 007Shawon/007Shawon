@@ -9,7 +9,7 @@
         <del>Shawon</del>
         <h1>Shawon</h1><br>
         <h2>Shawon</h2><br>
-        <p style="text-align:center" > <img src="D:\html\employee's photo.jpg" height="300px" width="250px"></p>
+        <p style="text-align:center" >
         <a href="https://facebook.com">facebook</a>
         <a href="http://localhost:8080/myphp/">php</a>
         <iframe src="https://armanfardin.wordpress.com" height="300px" width="200px"></iframe>
